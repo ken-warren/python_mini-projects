@@ -16,4 +16,4 @@ vals = [22, 44, 44, 13, 82, 2, 82]
 unique_vals = remove_dups(vals)
 print(unique_vals)
 
-# Output expected: []
+# Output expected: [22, 44, 13, 82, 2]
