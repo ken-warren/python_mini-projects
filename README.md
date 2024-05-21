@@ -1,2 +1,4 @@
-# python_mini-projects
-Check out these simple Python projects 
+# Python Mini-projects
+These are simple Python projects designed to familiarize programming beginners with the Python language.
+
+
